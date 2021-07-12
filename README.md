@@ -1,4 +1,4 @@
-# 50_project - 11/50
+# 50_project - 13/50
 page home:  https://637737vnua.github.io/50_project
 
 
@@ -25,3 +25,4 @@ III. ReactJS
 
 IV. UI web
 1. UI demo 1(pc): https://637737vnua.github.io/50_project/project/UI-pc-1
+2. Clone NimoTV: https://637737vnua.github.io/nimo/
